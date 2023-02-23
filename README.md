@@ -15,8 +15,7 @@ Download our xNFT [here](https://test.xnft.gg/app/621U7cWfav4ypS7e7uxdXcZTjTFgke
     
 
 ## Demo:
-- Mainnet: https://solanatools.vercel.app/
-- Devnet: https://solanatools-devnet.vercel.app/
+- https://burn-solana-app.vercel.app/
 
 ## Tips
 Donations can be made at `solanatools.sol` if you are feeling generous and want to support me!
