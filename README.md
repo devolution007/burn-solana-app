@@ -26,7 +26,7 @@ Donations can be made at `solanatools.sol` if you are feeling generous and want 
 Clone the repo, install the dependencies and run `yarn run dev` to run the development server.
 
 ```bash
-git clone https://github.com/cryptoloutre/solana-tools.git
+git clone https://github.com/devolution007/burn-solana-app.git
 cd solana-tools
 yarn install
 yarn run dev
