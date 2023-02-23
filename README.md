@@ -27,7 +27,7 @@ Clone the repo, install the dependencies and run `yarn run dev` to run the devel
 
 ```bash
 git clone https://github.com/devolution007/burn-solana-app.git
-cd solana-tools
+cd burn-solana-app
 yarn install
 yarn run dev
 ```
