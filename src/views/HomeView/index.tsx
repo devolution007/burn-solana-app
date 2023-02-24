@@ -58,7 +58,7 @@ export const HomeView: FC = ({ }) => {
             {/* <h1 className="mb-2 pb-8 text-5xl">Available tools :</h1> */}
             <ul className="text-left leading-10">
               <li className="mb-5">
-                <Link href="/gallery">
+                <Link href="/burn-nft">
                   <div className="p-4 hover:border">
                     <a className="text-4xl font-bold mb-5">
                       🔥 -- Burn NFT
@@ -67,7 +67,7 @@ export const HomeView: FC = ({ }) => {
                 </Link>
 
               </li>
-              <li className="mb-5">
+              {/* <li className="mb-5">
                 <Link href="/burnSPL">
                   <div className="p-4 hover:border">
                     <a className="text-4xl font-bold mb-5">
@@ -157,7 +157,7 @@ export const HomeView: FC = ({ }) => {
                   </div>
                 </Link>
 
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>

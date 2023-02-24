@@ -1,3 +1,25 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.w-3{
+    width: 1.75rem!important;
+}
+
+.w-9 {
+    width: 3.25rem!important;
+}
+
+.h-9 {
+    height: 3.25rem!important;
+}
+
+.max-w-4xl {
+     border: 3px!important;
+    border-color: white!important;
+    border-style: solid!important;
+}
+
+.mb5 p-4 hover:border{
+    display: none!important;
+}
